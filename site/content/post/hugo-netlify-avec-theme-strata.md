@@ -1,12 +1,10 @@
 ---
-title: "Victor Hugo sur Netlify : Un Guide étape par étape"
+title: "Victor-Hugo sur Netlify : Un Guide Étape par Étape"
 date: 2017-07-03T20:21:25+02:00
 draft: false
 ---
 
 [Source Netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/ "Permalink to A Step-by-Step Guide: Victor-Hugo on Netlify") - Eli  Williamson
-
-# Victor-Hugo sur Netlify : Un Guide Étape par Étape
 
 Jetons un oeil aujourd'hui sur la façon d'héberger un site web statique utilisant [Hugo][1] sur Netlify, en n'oubliant pas d'installer un déploiement continu.
 
